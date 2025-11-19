@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "MetaSense helps businesses achieve digital excellence. Offering SEO, PPC, SMO, web development, UI/UX & graphic design with expert teams and 24/7 support.",
   keywords:
-    "digital marketing agency, SEO services, PPC campaigns, SMO services, web development, UI/UX design, graphic design, digital growth, online marketing India, MetaSense services, business digital transformation, marketing strategy, web design agency, best digital agency India",
+    "digital marketing agency, SMO services, web development, UI/UX design, graphic design, web design agency, online marketing India, digital marketing agency in India, digital marketing agency in Delhi, digital marketing company in Delhi NCR, SEO services in India, social media marketing in India, SEO company in Delhi, PPC services in Delhi, web design in India, web development in India, white label SEO",
   alternates: {
     canonical: "https://metasense.in/",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 
