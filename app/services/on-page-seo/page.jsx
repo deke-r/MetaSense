@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Enhance your website's search engine visibility with MetaSense On-Page SEO services. Optimize meta tags, headings, content, images, and internal linking for better rankings.",
   keywords:
-    "On-page SEO, MetaSense SEO services, meta tags optimization, headings optimization, content SEO, image SEO, internal linking, website SEO audit, search engine optimization, improve website ranking",
+    "On-page SEO, meta tags optimization, headings optimization, content SEO, image SEO, internal linking, website SEO audit, search engine optimization, improve website ranking, SEO Agency, On-Site Optimization Services, On Page Optimization, On Page SEO Optimization, On Page SEO Analysis",
   alternates: {
     canonical: "https://metasense.in/services/on-page-seo",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

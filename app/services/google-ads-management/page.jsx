@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Maximize ROI with MetaSense Google Ads management and PPC campaigns. Targeted advertising, optimized bidding, and lead generation for your business.",
   keywords:
-    "Google Ads management, PPC campaigns, paid advertising, online advertising strategy, MetaSense PPC services, lead generation, ROI optimization, Google Ads expert, digital advertising, search ads",
+    "Google Ads management, paid advertising, online advertising strategy, lead generation, ROI optimization, Google Ads expert, digital advertising, search ads, PPC Management, Pay Per Click Management, PPC Account Management, AdWords Management, Google AdWords Management Services, Google Ads Company, Google Ads Service, Ads Management Company, Best ppc management company",
   alternates: {
     canonical: "https://metasense.in/services/google-ads-management",
   },

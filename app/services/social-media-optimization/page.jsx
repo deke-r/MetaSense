@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Enhance your brand presence on social media platforms with MetaSense SMO services. Increase engagement, followers, and drive traffic to your website.",
   keywords:
-    "social media optimization, SMO services, social media marketing, MetaSense SMO, increase social engagement, social media strategy, Facebook optimization, Instagram optimization, LinkedIn optimization",
+    "social media optimization, SMO services, social media marketing, MetaSense SMO, increase social engagement, social media strategy, Facebook optimization, Instagram optimization, LinkedIn optimization,Social Media Optimization Services",
   alternates: {
     canonical: "https://metasense.in/services/social-media-optimization",
   },

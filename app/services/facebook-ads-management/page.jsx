@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Drive business growth with MetaSense Facebook Ads management. Expertly targeted campaigns, optimized for leads, engagement, and ROI.",
   keywords:
-    "Facebook Ads management, social media advertising, MetaSense Facebook campaigns, lead generation, targeted Facebook ads, paid social marketing, Facebook PPC, Facebook marketing strategy, business advertising on Facebook, MetaSense marketing services",
+    "Facebook Ads management, social media advertising, MetaSense Facebook campaigns, lead generation, targeted Facebook ads, paid social marketing, Facebook PPC, Facebook marketing strategy, business advertising on Facebook, Facebook advertising agency, Facebook ads management services, Facebook ads company, Facebook ads management company, Facebook ads management agency",
   alternates: {
     canonical: "https://metasense.in/services/facebook-ads-management",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

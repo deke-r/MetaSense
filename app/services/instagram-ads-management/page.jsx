@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Boost your brand visibility and engagement with MetaSense Instagram Ads management. Expert campaigns optimized for leads, traffic, and ROI.",
   keywords:
-    "Instagram Ads management, social media advertising, MetaSense Instagram campaigns, lead generation, targeted Instagram ads, paid social marketing, Instagram PPC, Instagram marketing strategy, business advertising on Instagram, MetaSense marketing services",
+    "Instagram Ads management, social media advertising, lead generation, targeted Instagram ads, paid social marketing, Instagram PPC, Instagram marketing strategy, business advertising on Instagram, Instagram advertising agency, Instagram advertising services, Instagram ads manager, Instagram advertising company",
   alternates: {
     canonical: "https://metasense.in/services/instagram-ads-management",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

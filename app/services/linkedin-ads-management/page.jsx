@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Boost your B2B marketing with MetaSense LinkedIn Ads management. Targeted campaigns, lead generation, and ROI-focused advertising for professionals.",
   keywords:
-    "LinkedIn Ads management, B2B advertising, professional targeting, lead generation, MetaSense LinkedIn services, social media ads, paid LinkedIn campaigns, business ads, LinkedIn marketing strategy, LinkedIn PPC",
+    "LinkedIn Ads management, B2B advertising, professional targeting, lead generation, social media ads, paid LinkedIn campaigns, business ads, LinkedIn marketing strategy, LinkedIn PPC, Linkedin advertising management, Linkedin advertising agency, Linkedin marketing agency",
   alternates: {
     canonical: "https://metasense.in/services/linkedin-ads-management",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

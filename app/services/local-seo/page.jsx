@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Boost your local business visibility with MetaSense Local SEO services. Improve rankings on Google Maps, drive local traffic, and attract nearby customers.",
   keywords:
-    "local SEO, local search optimization, Google My Business SEO, local SEO services, MetaSense local SEO, local business SEO, improve local rankings, SEO for small businesses",
+    "local SEO, local search optimization, Google My Business SEO, local SEO services, local business SEO, improve local rankings, SEO for small businesses, Local SEO services in India, Local Marketing Services India, Best Local SEO Agency",
   alternates: {
     canonical: "https://metasense.in/services/local-seo",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

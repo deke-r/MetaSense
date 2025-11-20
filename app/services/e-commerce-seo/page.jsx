@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Drive more traffic and sales to your online store with MetaSense E-Commerce SEO services. Optimize product pages, categories, and content for higher search rankings.",
   keywords:
-    "E-Commerce SEO, online store SEO, product page optimization, category page SEO, MetaSense SEO services, e-commerce website SEO, SEO for online shops, increase online sales, search engine optimization",
+    "E-Commerce SEO, online store SEO, product page optimization, category page SEO, e-commerce website SEO, SEO for online shops, increase online sales, SEO, Ecommerce SEO Company, Ecommerce SEO Services, Ecommerce SEO Expert, Ecommerce",
   alternates: {
     canonical: "https://metasense.in/services/e-commerce-seo",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

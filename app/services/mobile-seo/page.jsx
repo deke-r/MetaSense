@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Optimize your website for mobile users with MetaSense Mobile SEO services. Improve mobile search rankings, page speed, and user experience for better engagement and conversions.",
   keywords:
-    "Mobile SEO, mobile website optimization, mobile search ranking, responsive SEO, MetaSense SEO services, mobile-friendly SEO, mobile page speed optimization, SEO for smartphones, mobile site SEO",
+    "Mobile SEO, mobile website optimization, mobile search ranking, responsive SEO, MetaSense SEO services, mobile-friendly SEO, mobile page speed optimization,mobile seo services,mobile seo services in India,SEO for smartphones, mobile site SEO,",
   alternates: {
     canonical: "https://metasense.in/services/mobile-seo",
   },

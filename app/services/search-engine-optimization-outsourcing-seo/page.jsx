@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Outsource your SEO to MetaSense for expert optimization, improved search rankings, and measurable results. Focus on your business while we handle your SEO campaigns.",
   keywords:
-    "SEO outsourcing, SEO services, outsource SEO, search engine optimization, MetaSense SEO, SEO campaign management, on-page SEO, off-page SEO, SEO experts, digital marketing SEO",
+    "SEO outsourcing, SEO services, outsource SEO, search engine optimization, SEO campaign management, on-page SEO, off-page SEO, SEO experts, digital marketing SEO, SEO Outsourcing Company, SEO Outsourcing India, SEO Outsourcing Company India, SEO Outsourcing Services, SEO Outsourcing Services India, SEO Reseller Program, Private Label SEO Reseller Programs, SEO Projects Outsourcing Company India, Outsourcing SEO",
   alternates: {
     canonical: "https://metasense.in/services/search-engine-optimization-outsourcing-seo",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 
