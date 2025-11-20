@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Drive traffic, engage your audience, and boost conversions with MetaSense Content Marketing services. Professional content strategy, creation, and distribution.",
   keywords:
-    "content marketing, content strategy, MetaSense content services, blog writing, article writing, SEO content, social media content, website content, content creation services, digital content marketing",
+    "content marketing,content strategy,MetaSense content services,blog writing,article writing,social media content,website content,content creation services,digital content marketing,Content Marketing Services,Content Marketing Agency,Content Marketing Company,SEO Content Marketing,SEO Content Creation",
   alternates: {
     canonical: "https://metasense.in/services/content-marketing",
   },

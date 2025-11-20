@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Build responsive, high-performance websites with MetaSense. Our expert team delivers custom web development solutions to grow your business online.",
   keywords:
-    "website development, web development services, responsive websites, custom web solutions, MetaSense development, front-end development, back-end development, full-stack development, business website development",
+    "website development, web development services, responsive websites, custom web solutions, front-end development, back-end development, full-stack development, business website development,website development services",
   alternates: {
     canonical: "https://metasense.in/services/website-development",
   },

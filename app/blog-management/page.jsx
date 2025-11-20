@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Boost your brand authority and engagement with MetaSense Blog Management services. We handle content creation, publishing, and strategy for your business blog.",
   keywords:
-    "blog management, content creation, blog strategy, blog publishing, MetaSense services, business blogging, SEO blogs, blog optimization, online content management",
+    "blog management, content creation, blog strategy, blog publishing, business blogging, SEO blogs, blog optimization, online content management, Blog management consulting, Multiple blog management, Wordpress blog management, Blogs management services, Blog services, Blog promotion, Manage blog, Business blog",
   alternates: {
     canonical: "https://metasense.in/blog-management",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

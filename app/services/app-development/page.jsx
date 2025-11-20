@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "MetaSense provides end-to-end mobile app development services for iOS and Android. Build innovative, scalable, and user-friendly applications for your business.",
   keywords:
-    "mobile app development, iOS app development, Android app development, cross-platform apps, custom mobile applications, MetaSense apps, app development services, business app solutions",
+    "mobile app development, iOS app development, Android app development, cross-platform apps, custom mobile applications, app development services, business app solutions",
   alternates: {
     canonical: "https://metasense.in/services/app-development",
   },

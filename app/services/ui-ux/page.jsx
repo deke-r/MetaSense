@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "MetaSense offers professional UI/UX design services to create intuitive, user-friendly interfaces and enhance user experience across web and mobile applications.",
   keywords:
-    "UI UX design services, user interface design, user experience design, mobile app UI UX, web app UI UX, MetaSense UI UX design, responsive design, interaction design, usability optimization, app design",
+    "UI UX design services, user interface design, user experience design, mobile app UI UX, web app UI UX,responsive design, interaction design, usability optimization, app design",
   alternates: {
     canonical: "https://metasense.in/services/ui-ux",
   },

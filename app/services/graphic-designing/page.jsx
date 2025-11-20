@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "MetaSense offers professional graphic design services to create stunning visuals for your brand, including logos, banners, social media graphics, and marketing materials.",
   keywords:
-    "graphic design services, logo design, branding, social media graphics, marketing design, creative design solutions, MetaSense graphic design, visual branding, business design services",
+    "graphic design services, logo design, branding, social media graphics, marketing design, creative design solutions, MetaSense graphic design, visual branding, business design services,graphic designing services",
   alternates: {
     canonical: "https://metasense.in/services/graphic-designing",
   },

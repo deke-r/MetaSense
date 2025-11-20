@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "Amplify your brand reach with MetaSense Influencer Marketing services. Connect with top influencers to drive engagement and sales.",
   keywords:
-    "influencer marketing, brand promotion, social media influencers, influencer campaigns, MetaSense services, digital marketing, online brand promotion, influencer strategy, influencer outreach",
+    "influencer marketing, brand promotion, social media influencers, influencer campaigns, online brand promotion, influencer strategy, influencer outreach, Influence Marketing Services, Influencer Marketing Agency, Premium Influencer Marketing Services, Influencer Marketing campaigns, Perfect Influencer",
   alternates: {
     canonical: "https://metasense.in/services/influencer-marketing",
   },
@@ -33,6 +33,7 @@ export const metadata = {
     creator: "@MetaSense",
   },
 };
+
 
 
 

@@ -3,7 +3,7 @@ export const metadata = {
   description:
     "MetaSense offers custom software development solutions to help businesses streamline operations and drive digital transformation. Scalable, secure, and innovative software.",
   keywords:
-    "software development, custom software solutions, enterprise software, application development, software outsourcing, MetaSense software, digital transformation, business software solutions",
+    "software development, custom software solutions, enterprise software, application development, software outsourcing,digital transformation, business software solutions,software development services",
   alternates: {
     canonical: "https://metasense.in/services/software-development",
   },
