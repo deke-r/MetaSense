@@ -26,7 +26,20 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-XE0H3Y5RH3');
           `}
         </Script>
+
+        {/* ✅ Microsoft Clarity */}
+        <Script id="ms-clarity" strategy="afterInteractive">
+          {`
+            (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "uio53geo2o");
+          `}
+        </Script>
+
       </head>
+
       <body className="d-flex flex-column min-vh-100" style={{ paddingTop: '80px' }}>
         <DarkModeProvider>
           <Bootstrap />
